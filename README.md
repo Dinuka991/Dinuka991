@@ -19,7 +19,7 @@ I'm a **Senior Software Engineer** with over **8 years of experience** specializ
 - 🇲🇻 Maldives
 
 ### 🌟 Projects and Achievements
-- **Frontend Application**: Developed using **React**, **TypeScript**, **JavaScript**, **Redux**, and **Material UI**, focusing on user-friendly interfaces and efficient data handling.
+
 - **Customer Feedback Analysis System**: Utilized **NLP techniques** to analyze customer feedback, providing actionable insights to improve customer satisfaction.
 - **Enquiry Handling Module**: Created a feature for a main system allowing users to attach various file types, enhancing the efficiency of query resolution.
 - **Large File Upload Module**: Engineered a module for large file uploads using **Azure Blob Storage**, optimizing upload/download times by 70%.
