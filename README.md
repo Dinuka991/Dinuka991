@@ -6,7 +6,6 @@ I'm a senior software engineer with over 8 years of experience specializing in f
 
 ## 🔭 Key Projects
 - **Customer Feedback Analysis System**: Utilized NLP techniques to analyze customer feedback, providing actionable insights to improve customer satisfaction.
-- **Frontend Application**: Developed using React, TypeScript, JavaScript, Redux, and Material UI, focusing on user-friendly interfaces and efficient data handling.
 - **Enquiry Handling Module**: Created a feature for a main system allowing users to attach various file types, enhancing the efficiency of query resolution.
 - **Financial Reports Module**: Developed using Apache POI and Spring Boot, centralizing loan-related financial data and reducing workflow time by 30%.
 - **Monolithic to Microservices Migration**: Led the migration of a monolithic application to a microservices architecture, significantly improving system scalability, maintainability, and deployment flexibility.
