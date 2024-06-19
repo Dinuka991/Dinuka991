@@ -1,8 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Dinuka 👋
 
-# Hi there, I'm Dinuka 👋
+![Profile Banner](https://user-images.githubusercontent.com/your-profile-banner.png)
 
-I'm a senior software engineer with over 8 years of experience specializing in full-stack development, cloud infrastructure, application security, DevOps, and artificial intelligence. I am passionate about building efficient and scalable applications and continuously enhancing my skills. Here are some details about my work and projects:
+I'm a **Senior Software Engineer** with over **8 years of experience** specializing in **Full-Stack Development**, **Cloud Infrastructure**, **Application Security**, **DevOps**, and **Artificial Intelligence**. I am passionate about building efficient and scalable applications and continuously enhancing my skills.
+
+### 🚀 About Me
+- 🌟 Full-Stack Developer with a knack for building seamless user experiences
+- ☁️ Cloud Enthusiast proficient in AWS and Azure
+- 🔒 Security Advocate ensuring robust application security
+- 🔄 DevOps Practitioner streamlining CI/CD pipelines
+- 🤖 AI/ML Explorer leveraging data for intelligent solutions
 
 ## 🔭 Key Projects
 - **Customer Feedback Analysis System**: Utilized NLP techniques to analyze customer feedback, providing actionable insights to improve customer satisfaction.
