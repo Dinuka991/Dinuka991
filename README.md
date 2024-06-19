@@ -1,6 +1,7 @@
 ## Hi there, I'm Dinuka 👋
 
-![Profile Banner](https://raw.githubusercontent.com/Dinuka991/Dinuka991/main/assets/profile-banner.png)
+![Profile Banner](https://github.com/Dinuka991/Dinuka991/blob/main/asset/dinuka.jpeg)
+
 
 I'm a **Senior Software Engineer** with over **8 years of experience** specializing in **Full-Stack Development**, **Cloud Infrastructure**, **Application Security**, **DevOps**, and **Artificial Intelligence**. I am passionate about building efficient and scalable applications and continuously enhancing my skills.
 
