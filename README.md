@@ -4,7 +4,7 @@
 
 I'm a senior software engineer with over 8 years of experience specializing in full-stack development, cloud infrastructure, application security, DevOps, and artificial intelligence. I am passionate about building efficient and scalable applications and continuously enhancing my skills. Here are some details about my work and projects:
 
-## 🔭 Current Projects
+## 🔭 Key Projects
 - **Customer Feedback Analysis System**: Utilized NLP techniques to analyze customer feedback, providing actionable insights to improve customer satisfaction.
 - **Frontend Application**: Developed using React, TypeScript, JavaScript, Redux, and Material UI, focusing on user-friendly interfaces and efficient data handling.
 - **Enquiry Handling Module**: Created a feature for a main system allowing users to attach various file types, enhancing the efficiency of query resolution.
