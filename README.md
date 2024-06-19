@@ -35,7 +35,7 @@ I'm a **Senior Software Engineer** with over **8 years of experience** specializ
 
 ### 📫 Get in Touch
 - **Portfolio**: [My Portfolio](https://dinuka991.github.io/)
-- **Email**: [dinuka@example.com](dinukadarshana007@gmail.com)
+- **Email**: [dinukadarshana007@gmail.com](dinukadarshana007@gmail.com)
 - **LinkedIn**: [Dinuka](https://www.linkedin.com/in/dinuka-ekanayake/)
 - **Twitter**: [@dinuka991](https://twitter.com/dinuka991)
 
